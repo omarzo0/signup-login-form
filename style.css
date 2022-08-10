@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(162, 200, 233);
+    font-family: "Roboto", sans-serif;
+}
+.sign_up h3{
+    text-align: center;
+    font-size: 230%;
+    padding-top: 1px;
+}
+.sign_up p
+{
+    text-align: center;
+    font-size: 150%;
+    padding-top: 1px;
+}
+
+.sign_up{
+width: 360px;
+  height: 710px;
+  margin: auto;
+  background-color: rgb(162, 200, 233);
+  border:2px solid black ;
+}
+.login
+{
+    width: 360px;
+    height: 370px;
+    border: 2px solid black;
+    margin: auto;
+}
+.login h3
+{
+    text-align: center;
+    font-size: 230%;
+    padding-top: 1px;
+}
+.login p
+{
+    text-align: center;
+    font-size: 150%;
+    padding-top: 1px;
+}
+.para-2
+{
+    font-size: 150%;
+}
+form label
+{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 20px;
+    color: rgb(69, 69, 69);
+}
+form input
+{
+  width: 80%;
+  padding: 7px;
+  border: none;
+  border: 1px solid rgb(195, 188, 188);
+  border-radius: 6px;
+  outline: none;
+  margin-left: 20px;
+}
+input[type="button"]
+{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 250px;
+    height: 33px;
+    border: none;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 17px;
+}
+p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 5px;
+  }
+  .para-2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-top: -10px;
+  }
+  .para-2 a {
+    color: #51449c;
+  }
+ 
+  
+  
